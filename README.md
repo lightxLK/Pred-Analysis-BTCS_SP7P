@@ -1,2 +1,2 @@
-# Predictive-Analysis-
-Showcases work focused on utilizing statistical techniques and machine learning algorithms to forecast future trends and outcomes.
+# Predictive-Analysis
+The projects here include data preprocessing, model training, validation, and performance evaluation using various predictive modeling approaches.
